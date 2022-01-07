@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://111.198.139.65"
+redirect_to: "http://111.198.139.65"
 ---
